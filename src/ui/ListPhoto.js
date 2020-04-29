@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
         fontSize: 18,
     },
     userDescription: {
-
+        width: 300,
         fontSize: 13,
     },
     errorMessage:{
