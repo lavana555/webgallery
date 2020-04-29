@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
         color:'#ff0066'
     },
     image: {
-        height: 500,
-        width: 500
+        height: 300,
+        width: 300
     }
 })
